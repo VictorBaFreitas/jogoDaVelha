@@ -1,2 +1,2 @@
 # jogoDaVelha
-bonito, legal
+Jogo 
